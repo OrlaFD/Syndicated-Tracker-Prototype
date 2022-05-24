@@ -47,17 +47,20 @@ nav {
     padding-right: 20px;
     padding-top: 15px;
 }
-
-nav ul {
-    display: flex;
-    list-style: none;
-    padding: 15px;
+img {
+    width: 100px;
 }
 
 .brand_tracker_title {
     flex: 1;
     padding-left: 20px;
     font-weight: 500;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    padding: 15px;
 }
 
 nav ul li {
